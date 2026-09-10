@@ -2,6 +2,18 @@
 
 A list of ideas for the eventual replacement of the placeholder page.
 
+## A Nature Documentary About You
+The page opens like a wildlife documentary title card, but the title is your own handwriting, scanned in: "Ian Moritz: A Wildlife Documentary." A single Play button starts a hushed, Attenborough-style narration (yours, or a gently-affected read) over a short looping clip — a calm nature scene, or yes, a puppy. A few handwritten captions appear beneath, in your script: "Here we observe the Moritz in his natural habitat: making things, mostly indoors." One or two "Similar Sightings" links lead out to other calming videos you actually like.
+
+## Field Notes
+The background is a photographed page from an actual notebook of yours — coffee ring, cross-outs, doodles and all. Scattered across it are a few taped-in Polaroids and torn ticket stubs; each is a real link. Tap one and it plays a short, quiet video (nature, puppies, whatever you find relaxing) in a small frame that looks like it's been glued onto the page. Your bio is handwritten directly onto the paper, not typed.
+
+## The Nature Hotline
+A single rotary phone on an empty page, hand-labeled with a luggage tag in your handwriting: "For a nice time, call this number." Clicking it "dials" and, after a beat, plays a soft nature-documentary-style narrated clip about you as if you were a species being described — over stock footage of something calming (puppies included). Hanging up returns you to a handwritten note: "Ian is also available by email."
+
+## Show and Tell
+A corkboard styled after a classroom show-and-tell wall. A handwritten index card with your name and a one-line bio is pinned in the center. Around it, a few more cards — each captioned by hand ("this one's my favorite," "watch with the sound on") — pin down a still frame from a relaxing or funny video; clicking one plays it right there, like a hand-pinned window into the internet.
+
 ## Hello, I'm Ian.
 A single laser-cut wooden name tag sits on an otherwise empty page. It tilts slightly with your cursor; clicking flips it over to reveal a handwritten introduction and email. A tiny "Make your own" link downloads the cutting file.
 
