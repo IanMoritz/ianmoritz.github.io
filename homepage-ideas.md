@@ -2,6 +2,12 @@
 
 A list of ideas for the eventual replacement of the placeholder page.
 
+## One Pixel at a Time
+A homage to Reddit's r/place: a small shared canvas where every visitor gets to place a handful of pixels before the cooldown timer makes them wait. Over time the canvas fills in — sometimes with something recognizable, usually with chaos — and your bio sits quietly next to it, unclaimed territory the crowd is welcome to draw on. A "watch it happen" timelapse replays how it got that way.
+
+## A Small Gallery of Things I Didn't Make
+A handful of paintings you love — Winslow Homer's ocean scenes among them — hung salon-style on a plain gallery wall, each with a small handwritten museum label instead of a printed one: your name for it, the real title and artist, and one line on why it's stuck with you. No curatorial essay, no grid of thumbnails — just a few pieces, given room to breathe, the way you'd actually want to look at them.
+
 ## A Nature Documentary About You
 The page opens like a wildlife documentary title card, but the title is your own handwriting, scanned in: "Ian Moritz: A Wildlife Documentary." A single Play button starts a hushed, Attenborough-style narration (yours, or a gently-affected read) over a short looping clip — a calm nature scene, or yes, a puppy. A few handwritten captions appear beneath, in your script: "Here we observe the Moritz in his natural habitat: making things, mostly indoors." One or two "Similar Sightings" links lead out to other calming videos you actually like.
 
